@@ -25,6 +25,9 @@
 `Most of the requests needs to include a valid token on the header , this token is given after doing the login API`  |
 -|
 
+`For clearer documentation run the project locally and open this link =>` http://localhost:8080/todos/doc |
+-|
+
 
 
 
