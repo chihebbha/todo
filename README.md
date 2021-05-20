@@ -19,8 +19,7 @@
 
 ## PS :
 
-`This project don't represent AOS entreprise and the logo is for test purpose only`  |
--|
+
 
 `Most of the requests needs to include a valid token on the header , this token is given after doing the login API`  |
 -|
